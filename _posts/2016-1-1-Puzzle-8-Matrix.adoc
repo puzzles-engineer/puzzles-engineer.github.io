@@ -1,8 +1,0 @@
-= Puzzle 8 - Matrix
-
-
-level: 5
-
-http://challenge-your-limits8.herokuapp.com/
-
-image::p8.png[puzzle 8]
