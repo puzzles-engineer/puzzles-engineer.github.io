@@ -1,0 +1,8 @@
+= Puzzle 1 - Please call my APIs
+:published_at: 201-01-31
+
+level: 1
+
+http://challenge-your-limits.herokuapp.com/
+
+image::p1.png[puzzle 1]
