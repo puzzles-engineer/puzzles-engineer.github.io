@@ -1,0 +1,8 @@
+= Puzzle 5 - e-ticket
+:published_at: 2016-01-27
+
+level: 1
+
+http://challenge-your-limits5.herokuapp.com/
+
+image::p5.png[puzzle 5]
