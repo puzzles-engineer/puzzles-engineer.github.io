@@ -1,1 +1,5 @@
 # Puzzle 1 - Please call my APIs
+
+level: 1
+
+http://challenge-your-limits.herokuapp.com/
