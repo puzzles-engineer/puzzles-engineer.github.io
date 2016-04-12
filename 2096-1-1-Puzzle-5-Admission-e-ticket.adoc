@@ -35,7 +35,7 @@
     <meta property="og:description" content="level: 1 http://challenge-your-limits5.herokuapp.com/..." />
     <meta property="og:url" content="https://puzzles-engineer.github.io2096-1-1-Puzzle-5-Admission-e-ticket.adoc" />
     <meta property="article:published_time" content="2095-12-31T16:00:00.000Z" />
-    <meta property="article:modified_time" content="2016-04-12T15:21:10.234Z" />
+    <meta property="article:modified_time" content="2016-04-12T15:22:05.541Z" />
     
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="Puzzle 5 - Admission e-ticket" />
@@ -57,7 +57,7 @@
     "headline": "Puzzle 5 - Admission e-ticket",
     "url": "https://puzzles-engineer.github.io2096-1-1-Puzzle-5-Admission-e-ticket.adoc",
     "datePublished": "2095-12-31T16:00:00.000Z",
-    "dateModified": "2016-04-12T15:21:10.234Z",
+    "dateModified": "2016-04-12T15:22:05.541Z",
     "description": "level: 1 http://challenge-your-limits5.herokuapp.com/..."
 }
     </script>
