@@ -1,0 +1,8 @@
+= Puzzle 2 - Hack Me If You Can
+:published_at: 2016-01-30
+
+level: 2
+
+http://challenge-your-limits2.herokuapp.com/
+
+image::p2.png[puzzle 2]
