@@ -1,5 +1,5 @@
 = Puzzle 8 - Matrix
-:published_at: 0093-1-1
+:published_at: 1993-1-1
 
 level: 5
 
