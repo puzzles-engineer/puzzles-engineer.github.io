@@ -1,8 +1,0 @@
-= Puzzle 6 - Hackipedia
-:published_at: 2095-1-1
-
-level: 5
-
-http://challenge-your-limits6.herokuapp.com/
-
-image::p6.png[puzzle 6]
