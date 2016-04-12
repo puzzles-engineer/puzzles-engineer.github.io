@@ -35,7 +35,7 @@
     <meta property="og:description" content="level: 4 http://challenge-your-limits7.herokuapp.com/..." />
     <meta property="og:url" content="https://puzzles-engineer.github.io2094-1-1-Puzzle-7-C-U-B-E-S.adoc" />
     <meta property="article:published_time" content="2093-12-31T16:00:00.000Z" />
-    <meta property="article:modified_time" content="2016-04-12T15:21:10.236Z" />
+    <meta property="article:modified_time" content="2016-04-12T15:22:05.544Z" />
     
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="Puzzle 7 - CUBES" />
@@ -57,7 +57,7 @@
     "headline": "Puzzle 7 - CUBES",
     "url": "https://puzzles-engineer.github.io2094-1-1-Puzzle-7-C-U-B-E-S.adoc",
     "datePublished": "2093-12-31T16:00:00.000Z",
-    "dateModified": "2016-04-12T15:21:10.236Z",
+    "dateModified": "2016-04-12T15:22:05.544Z",
     "description": "level: 4 http://challenge-your-limits7.herokuapp.com/..."
 }
     </script>
