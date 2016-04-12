@@ -1,8 +1,0 @@
-= Puzzle 5 - Admission e-ticket
-:published_at: 2096-1-1
-
-level: 1
-
-http://challenge-your-limits5.herokuapp.com/
-
-image::p5.png[puzzle 5]
