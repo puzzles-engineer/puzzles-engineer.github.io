@@ -1,0 +1,8 @@
+= Puzzle 7 - CUBES
+:published_at: 2094-1-1
+
+level: 4
+
+http://challenge-your-limits7.herokuapp.com/
+
+image::p7.png[puzzle 7]
