@@ -1,8 +1,0 @@
-= Puzzle 4 - No Hacking
-:published_at: 2097-1-1
-
-level: 3
-
-http://challenge-your-limits4.herokuapp.com/
-
-image::p4.png[puzzle 4]
