@@ -4,4 +4,4 @@ level: 1
 
 http://challenge-your-limits.herokuapp.com/
 
-image::<p1.png>[puzzle 1]
+image::p1.png[puzzle 1]
