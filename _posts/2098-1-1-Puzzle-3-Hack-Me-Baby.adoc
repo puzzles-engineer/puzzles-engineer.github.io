@@ -1,0 +1,8 @@
+= Puzzle 3 - Hack Me, Baby
+:published_at: 2098-1-1
+
+level: 3
+
+http://challenge-your-limits3.herokuapp.com/
+
+image::p3.png[puzzle 3]
