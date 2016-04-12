@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "puzzles-engineer",
-    "repositoryName": "puzzles-engineer.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"puzzles-engineer","repositoryName":"puzzles-engineer.github.io","branch":"master"},"site":{"title":"Puzzles for Software Engineer","description":"Puzzles for Software Engineer","url":"https://puzzles-engineer.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//puzzles-engineer.github.io/themes/Casper"}}
