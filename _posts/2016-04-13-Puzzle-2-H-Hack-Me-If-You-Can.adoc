@@ -1,0 +1,7 @@
+= Puzzle 2 - HHack Me If You Can
+
+level: 2
+
+http://challenge-your-limits2.herokuapp.com/
+
+image::p2.png[puzzle 2]
